@@ -1,0 +1,16 @@
+baseURL: https://fuckstealingart.com
+languageCode: en-us
+title: Fuck Stealing Art
+
+theme: relearn
+
+editURL: https://github.com/Allar/fuckstealingart/
+author: Michael Allar
+description: A resource to help combat the modern era of art theft across NFT platforms.
+disableSearch: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
