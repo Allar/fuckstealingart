@@ -14,3 +14,8 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+params:
+  twitter:
+    creator: "@michaelallar"
+    site: "@michaelallar"
