@@ -1,5 +1,7 @@
 # Fuck Stealing Art
 
+**Has your art been stolen in the form of an NFT? Consult the links on the left to see if this resource can help you.**
+
 This website is a quickly rushed resource in an attempt to help artists take some sort of action against their artwork being stolen and profited from in the form of rogue NFTs.
 
 Please feel free to contribute to, fork, and redistribute this information by any means. You can find the source for this resource at https://github.com/Allar/fuckstealingart.
