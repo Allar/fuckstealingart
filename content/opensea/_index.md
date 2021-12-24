@@ -24,6 +24,10 @@ The best way to take down at from OpenSea.io is to, strangely enough, submit a r
 1. You will need a link to the OpenSea.io hosted image. Literally right click your image and hit `Copy Address`. If this is not possible with your art, this method may not work for you.
 1. You will have to give Google a name and email address.
 
+### What Will Happen?
+
+Hopefully within a short timeframe, hopefully in less than a week (but many have reported resolutions in a matter of a day or two), Google will remove the image from their cloud and OpenSea.io will no longer display your art for that NFT.
+
 ### Google Automated Takedown
 
 Google has an automated support system for this. You can find their system at the following link:

@@ -19,3 +19,13 @@ params:
   twitter:
     creator: "@michaelallar"
     site: "@michaelallar"
+  disableShortcutsTitle: true
+
+menu:
+  shortcuts:
+    - name: "<i class='fab fa-fw fa-github'></i> View on GitHub"
+      identifier: gh
+      url: "https://github.com/Allar/fuckstealingart"
+      weight: 10
+
+      
