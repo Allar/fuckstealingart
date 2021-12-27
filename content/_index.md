@@ -19,5 +19,5 @@ Use the left sidebar to find information about an art theft topic.
 ## Contribute
 
 This website and code is currently hosted by [Michael Allar](https://twitter.com/michaelallar), but most likely will not be able to be maintained. If you have any interest in taking over or contributing, please check out the [github repo](https://github.com/allar/fuckstealingart).
-ß
-Everything here is open for all to be used in any way you want.ß
+
+Everything here is open for all to be used in any way you want.
