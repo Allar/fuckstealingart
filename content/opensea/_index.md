@@ -6,7 +6,7 @@ OpenSea.io is an NFT platform for buying, selling, and creating NFTs. It is home
 
 ## Time Of Writing
 
-This was updated last as of December 24th, 9:00AM PST. This information may be out of date.
+This was updated last as of December 29th, 14:00 GMT. This information may be out of date.
 
 ## Limitations
 
@@ -23,6 +23,10 @@ The best way to take down at from OpenSea.io is to, strangely enough, submit a r
 1. You will need a publicly accessible link to your work that you own from an account that you own, i.e. to your DeviantArt, Twitter post, Instagram, etc.
 1. You will need a link to the OpenSea.io hosted image. Literally right click your image and hit `Copy Address`. If this is not possible with your art, this method may not work for you.
 1. You will have to give Google a name and email address.
+
+### What if I had more than one art image stolen?
+
+If you had more than one art image stolen, please refer [HERE](https://fuckstealingart.com/script/).
 
 ### What Will Happen?
 
