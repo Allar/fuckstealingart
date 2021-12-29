@@ -6,11 +6,15 @@ OpenSea.io is an NFT platform for buying, selling, and creating NFTs. It is home
 
 ## Time Of Writing
 
-This was updated last as of December 24th, 9:00AM PST. This information may be out of date.
+This was updated last as of December 29th, 13:00 PST. This information may be out of date.
 
 ## Limitations
 
 Currently this resource can only help with traditional images that have been stolen. I.e. "right-clickable" images. There are ways for attackers to circumvent this but many don't.
+
+## Limitations
+
+You you had more than one art stolen, please refer [HERE](/).
 
 ## Google Based Takedowns
 
@@ -20,6 +24,14 @@ The best way to take down at from OpenSea.io is to, strangely enough, submit a r
 
 ### Requirements
 
+1. You will need a publicly accessible link to your work that you own from an account that you own, i.e. to your DeviantArt, Twitter post, Instagram, etc.
+1. You will need a link to the OpenSea.io hosted image. Literally right click your image and hit `Copy Address`. If this is not possible with your art, this method may not work for you.
+1. You will have to give Google a name and email address.
+
+### What if I had more than one art stolen?
+
+
+If you had more than one art stolen, please refer 
 1. You will need a publicly accessible link to your work that you own from an account that you own, i.e. to your DeviantArt, Twitter post, Instagram, etc.
 1. You will need a link to the OpenSea.io hosted image. Literally right click your image and hit `Copy Address`. If this is not possible with your art, this method may not work for you.
 1. You will have to give Google a name and email address.
